@@ -1,4 +1,4 @@
-def main():
+def password():
  
   count = 0
   while count < 5:
@@ -17,4 +17,4 @@ def main():
     print("You are kicked off the system!!!")
 
 if __name__ == "__main__":
-  main()
+  password()
